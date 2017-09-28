@@ -7,9 +7,9 @@ vim由[Bram Moolenaar](https://zh.wikipedia.org/wiki/布萊姆·米勒)于1988�
 前言中说到此编辑器的操作对新手来说并不习惯，从打开就开始了。
 ##### 1.在git环境中进入vim并用vim打开文件
 ![1-1](http://upload-images.jianshu.io/upload_images/8084817-7f162ce23de7d4ef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+[1-1]
 ![1-2](http://upload-images.jianshu.io/upload_images/8084817-508affbe0250727d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+[1-2]
 在任意行键入  `vim` （图1-1）并回车即可进入，如要打开文件只需要键入`vim 文件名`（图1-2）回车即可进入.
 #### 2.退出和保存退出
 

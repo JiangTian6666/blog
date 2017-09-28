@@ -1,4 +1,5 @@
-# Git Bash环境下vim的基础使用方法#前言：
+# Git Bash环境下vim的基础使用方法
+#前言：
 vim由[Bram Moolenaar](https://zh.wikipedia.org/wiki/布萊姆·米勒)于1988年开发并于1991年发布的一款编辑器，此编辑器拥有强大的功能和高效的操作，因此也受到了全球程序员的推崇（也因此vim编辑器的使用对新手来说并不是很习惯）。此文是笔者的学习笔记，写作目的是供自己记忆复习并和各位同学们各位一起交流和学习的。望大家看到有错误或不准确的请提出批评及建议，感谢！
 
 
@@ -7,9 +8,9 @@ vim由[Bram Moolenaar](https://zh.wikipedia.org/wiki/布萊姆·米勒)于1988�
 前言中说到此编辑器的操作对新手来说并不习惯，从打开就开始了。
 ##### 1.在git环境中进入vim并用vim打开文件
 ![1-1](http://upload-images.jianshu.io/upload_images/8084817-7f162ce23de7d4ef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-[1-1]
+
 ![1-2](http://upload-images.jianshu.io/upload_images/8084817-508affbe0250727d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-[1-2]
+
 在任意行键入  `vim` （图1-1）并回车即可进入，如要打开文件只需要键入`vim 文件名`（图1-2）回车即可进入.
 #### 2.退出和保存退出
 
